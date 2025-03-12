@@ -1,0 +1,236 @@
+.team-kv {
+  width: 24px;
+  height: 24px;
+  background-color: rgba(255, 211, 175, 1);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  display: block;
+  unicode-bidi: isolate;
+}
+html,
+body {
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  width: 1280px;
+  margin: 0 auto;
+}
+.million {
+  width: 528px;
+  padding-bottom: 32px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+}
+.Company {
+  padding: 24px;
+  width: 89;
+  height: 20;
+  top: 228px;
+  left: 161px;
+  opacity: 0.87;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 1);
+}
+.redflur {
+  width: 719;
+  height: 48;
+  top: 466px;
+  left: 161px;
+  opacity: 0.87;
+  padding-bottom: 64px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+}
+.picture {
+  display: flex;
+  gap: 12px;
+  padding-bottom: 96px;
+}
+.kvadrad {
+  width: 16px;
+  height: 16px;
+  background-color: rgba(102, 109, 255, 1);
+}
+.abaut {
+  padding: 16px;
+  width: 96;
+  height: 28;
+  top: 1152px;
+  left: 160px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+}
+.jallod {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  width: 549;
+  height: 108;
+  top: 1196px;
+  left: 160px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+}
+.xarita {
+  padding: top 24px;
+  font-size: 16px;
+  line-height: 1.6;
+  width: 550;
+  height: 144;
+  top: 1328px;
+  left: 160px;
+  opacity: 0.87;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+}
+.rasm {
+  width: 624;
+  height: 368;
+  top: 1120px;
+  left: 816px;
+}
+.tiger {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px;
+  gap: 30px;
+}
+.der {
+  width: 1160px;
+  margin: 0 auto;
+}
+.combo {
+  background-color: rgba(236, 248, 249, 1);
+}
+.h5 {
+  width: 135;
+  padding-top: 142px;
+  padding-bottom: 16px;
+  height: 20;
+  top: 1928px;
+  left: 160px;
+  opacity: 0.87;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 1);
+}
+.nimagap {
+  width: 622;
+  height: 232;
+  top: 1964px;
+  left: 162px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  letter-spacing: 0px;
+  color: rgba(35, 37, 54, 1);
+}
+.fadder {
+  padding-top: 24px;
+  width: 622;
+  height: 72;
+  top: 2220px;
+  left: 161px;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: rgba(93, 95, 109, 1);
+}
+.rasmf {
+  width: 515.0017700195312;
+  height: 468;
+  top: 1882px;
+  left: 925px;
+}
+.dasfg {
+  display: flex;
+  justify-content: space-between;
+}
+.hd {
+  padding-top: 96px;
+  width: 105;
+  height: 20;
+  top: 2542px;
+  left: 166px;
+  opacity: 0.87;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.kel {
+  width: 1273;
+  height: 369;
+  top: 2900px;
+  left: 163px;
+}
+.darken {
+  padding-bottom: 64px;
+  width: 622;
+  height: 72;
+  top: 2764px;
+  left: 164px;
+  opacity: 0.6;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+}
+.scp-1963 {
+  width: 1280;
+  height: 640;
+  top: 3677px;
+  left: 163px;
+}
+.salom {
+  padding-top: 64px;
+}
